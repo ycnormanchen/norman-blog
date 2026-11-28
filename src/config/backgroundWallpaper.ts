@@ -63,17 +63,14 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "GeekDad Norman",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"不會寫程式，也能用 AI 做出產品",
+                "記錄一個行銷人的 Build in Public",
+                "在台南，慢慢做自己想做的事",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -95,25 +92,28 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 图标支持 Iconify 格式：fa7-brands:github、fa7-solid:envelope、mdi:rss 等
 			links: [
 				{
-					name: "GitHub",
-					icon: "fa7-brands:github",
-					url: "https://github.com/CuteLeaf/Firefly",
-					showName: true,
+					name: "Facebook",
+    				icon: "fa7-brands:facebook",
+    				url: "https://www.facebook.com/gd.normanchen",
+    				showName: false,
+				},
+				{
+					name: "Instagram",
+    				icon: "fa7-brands:instagram",
+    				url: "https://www.instagram.com/gd.normanchen",
+    				showName: false,
+				},
+				{
+					name: "Threads",
+    				icon: "fa7-brands:threads",
+    				url: "https://www.threads.net/@gd.normanchen",
+    				showName: false,
 				},
 				{
 					name: "Email",
-					icon: "fa7-solid:envelope",
-					url: "mailto:xiaye@msn.com",
-				},
-				{
-					name: "Sponsor",
-					icon: "material-symbols:favorite",
-					url: "https://blog.cuteleaf.cn/sponsor/",
-				},
-				{
-					name: "RSS",
-					icon: "fa7-solid:rss",
-					url: "/rss/",
+    				icon: "fa7-solid:envelope",
+    				url: "mailto:iamgdnorman@gmail.com",
+    				showName: false,
 				},
 			],
 		},
