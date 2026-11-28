@@ -94,19 +94,19 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "Facebook",
     				icon: "fa7-brands:facebook",
-    				url: "https://www.facebook.com/gd.normanchen",
+    				url: "https://www.facebook.com/gd.normancheng",
     				showName: false,
 				},
 				{
 					name: "Instagram",
     				icon: "fa7-brands:instagram",
-    				url: "https://www.instagram.com/gd.normanchen",
+    				url: "https://www.instagram.com/gd.normancheng",
     				showName: false,
 				},
 				{
 					name: "Threads",
     				icon: "fa7-brands:threads",
-    				url: "https://www.threads.net/@gd.normanchen",
+    				url: "https://www.threads.net/@gd.normancheng",
     				showName: false,
 				},
 				{
