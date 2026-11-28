@@ -1,4 +1,4 @@
-<img width="1895" height="1014" alt="image" src="https://github.com/user-attachments/assets/ee6b22ea-4ba2-4247-a122-a89ba2873811" />---
+---
 title: Firefly 简单使用指南
 published: 1970-01-02
 pinned: true
